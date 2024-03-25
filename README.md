@@ -14,7 +14,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/PenTesting-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/FireWalls-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Blueteaming-%7C-yellowgreen) ![](https://img.shields.io/badge/Cybersecurity-%7C-blue) ![](https://img.shields.io/badge/Hacking-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
 
 ### I am an Information Security Engineer ✌
 - 🔭 I’m currently working on my Portfolio Website :grin:
